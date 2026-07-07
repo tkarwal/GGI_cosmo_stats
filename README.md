@@ -69,7 +69,7 @@ The easiest way to run these notebooks would be on Google colab, using the links
 
 | Lecture | Topic | Notebook | Colab link |
 |---------|-------|----------|------------|
-| Lecture 1 | Metropolis-Hastings MCMC | `ggi_write_MH_MCMC.ipynb` | [Open in Colab]() |
+| Lecture 1 | Metropolis-Hastings MCMC | `ggi_write_MH_MCMC.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tkarwal/GGI_cosmo_stats/blob/main/ggi_write_MH_MCMC.ipynb) |
 | Lecture 2 | Profile likelihoods | `ggi_write_profile_likelihood.ipynb` | [Open in Colab]() |
 | Lecture 3 | MontePython and Cobaya demos | No notebooks | - |
 
