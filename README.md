@@ -67,11 +67,11 @@ The easiest way to run these notebooks would be on Google colab, using the links
 
 ## Notebooks by lecture 
 
-| Topic | Lecture slides | Notebook | Colab link |
-|-------|----------------|----------|------------|
-| Metropolis-Hastings MCMC | Uploaded post lecture | `ggi_write_MH_MCMC.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tkarwal/GGI_cosmo_stats/blob/main/ggi_write_MH_MCMC.ipynb) |
-| Profile likelihoods | - | `ggi_write_profile_likelihood.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tkarwal/GGI_cosmo_stats/blob/main/ggi_write_profile_likelihood.ipynb) |
-| MontePython and Cobaya demos | - | No notebooks | - |
+| Topic | Lecture slides | Notebook | Colab link | Solutions |
+|-------|----------------|----------|------------|-----------|
+| Metropolis-Hastings MCMC | [Karwal_GGI_1_Bayesian_MCMC](https://github.com/tkarwal/GGI_cosmo_stats/blob/main/Karwal_GGI_1_Bayesian_MCMC.pdf) | [`ggi_write_MH_MCMC.ipynb`](https://github.com/tkarwal/GGI_cosmo_stats/blob/main/ggi_write_MH_MCMC.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tkarwal/GGI_cosmo_stats/blob/main/ggi_write_MH_MCMC.ipynb) | Uploaded post lecture |
+| Profile likelihoods | - | [`ggi_write_profile_likelihood.ipynb`](https://github.com/tkarwal/GGI_cosmo_stats/blob/main/ggi_write_profile_likelihood.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tkarwal/GGI_cosmo_stats/blob/main/ggi_write_profile_likelihood.ipynb) | - |
+| MontePython and Cobaya demos | - | No notebooks | - | - |
 
 
 ---
