@@ -82,6 +82,7 @@ The easiest way to run these notebooks would be on Google colab, using the links
 - [How to use profiles in cosmology](https://arxiv.org/pdf/2408.07700)
 - [Why isn't every physicist a Bayesian? ](https://www.astro.princeton.edu/~strauss/AST303/bayesian_paper.pdf)
 - [Feldman-Cousins boundary corrections](https://arxiv.org/pdf/physics/9711021)
+- [Fast-slow decomposition of parameters](https://arxiv.org/pdf/1304.4473)
 
 
 ---
